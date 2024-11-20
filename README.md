@@ -1,7 +1,3 @@
-# 7Apps React - React Native Developer Case Study
-
-## Multi-Select Autocomplete Component
-
 This project is a multi-select autocomplete component implemented using React Native, designed to search for characters in the "Rick and Morty" API. The application follows the provided design and meets all specified requirements.
 
 ## Features
